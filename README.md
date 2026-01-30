@@ -1,11 +1,11 @@
-# 🍕 Pizza Sales SQL Project (SSALES-SQL)
+ 🍕 Pizza Sales SQL Project (SALES-SQL)
 
 This project demonstrates the use of **SQL for data analysis** on a Pizza Sales dataset.  
 It showcases my ability to work with real-world data, design databases, write efficient queries, and extract meaningful business insights.
 
 ---
 
-## 📂 Project Overview
+ 📂 Project Overview
 
 In this project, I have:
 
@@ -16,7 +16,7 @@ In this project, I have:
 
 ---
 
-## 📊 What You Will Find
+ 📊 What You Will Find
 
 - **Datasets:** Complete pizza sales data available in the `data/` folder.  
 - **Queries:** SQL scripts for database creation and analysis are available in the `queries/` folder.  
@@ -25,7 +25,7 @@ In this project, I have:
 
 ---
 
-## 🔑 Key Skills Demonstrated
+ 🔑 Key Skills Demonstrated
 
 - Database design and schema creation  
 - Complex SQL query writing  
@@ -34,7 +34,7 @@ In this project, I have:
 
 ---
 
-## 🎯 Conclusion
+ 🎯 Conclusion
 
 This project highlights my **enthusiasm for IT and data analysis**, my **ability to learn and apply SQL** effectively, and my **passion for solving real-world business problems** through data.  
 
